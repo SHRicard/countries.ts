@@ -86,3 +86,12 @@ const App: React.FC = () => {
 export default App;
 
 ```
+
+
+## ¡Se Agradece Mucho Una Estrellita! 🌟
+
+Si este proyecto te ha sido útil o te ha gustado, no dudes en darle una estrella ⭐️ en GitHub. ¡Tu apoyo nos motiva a seguir mejorando! 😊
+
+[¡Dale una estrella aquí!](https://github.com/SHRicard/countries.ts)
+
+¡Gracias por contribuir al open-source! 🎉
